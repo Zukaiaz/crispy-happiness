@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\725181\\source\\repos\\crispy-happiness1\\crispy-happiness1\\crispy-happiness1.csproj": {}
+    "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\crispy-happiness1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\725181\\source\\repos\\crispy-happiness1\\crispy-happiness1\\crispy-happiness1.csproj": {
+    "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\crispy-happiness1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\725181\\source\\repos\\crispy-happiness1\\crispy-happiness1\\crispy-happiness1.csproj",
+        "projectUniqueName": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\crispy-happiness1.csproj",
         "projectName": "crispy-happiness1",
-        "projectPath": "C:\\Users\\725181\\source\\repos\\crispy-happiness1\\crispy-happiness1\\crispy-happiness1.csproj",
+        "projectPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\crispy-happiness1.csproj",
         "packagesPath": "C:\\Users\\725181\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\725181\\source\\repos\\crispy-happiness1\\crispy-happiness1\\obj\\",
+        "outputPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -56,19 +56,29 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.11, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.11, )"
             }
           },
           "imports": [

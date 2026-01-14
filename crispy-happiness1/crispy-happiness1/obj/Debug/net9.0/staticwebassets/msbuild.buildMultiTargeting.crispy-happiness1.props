@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\crispy-happiness1.props" />
+</Project>
