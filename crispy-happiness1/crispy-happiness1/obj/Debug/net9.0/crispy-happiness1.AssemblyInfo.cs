@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crispy-happiness1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ed6964ae6aabaf19e8928c192b8d3ce670c1f1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06cbd615869b099a31d2d45ead6b94c1af50b047")]
 [assembly: System.Reflection.AssemblyProductAttribute("crispy-happiness1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crispy-happiness1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

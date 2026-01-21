@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\Data\\Migrations\\20260121141706_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799874CB-4E3C-4719-8D5E-5AA496119A4B}|crispy-happiness1\\crispy-happiness1.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\725181\\github\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799874CB-4E3C-4719-8D5E-5AA496119A4B}|crispy-happiness1\\crispy-happiness1.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\725181\\github\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799874CB-4E3C-4719-8D5E-5AA496119A4B}|crispy-happiness1\\crispy-happiness1.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\725181\\github\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{799874CB-4E3C-4719-8D5E-5AA496119A4B}|crispy-happiness1\\crispy-happiness1.csproj|\\\\dom.sandwell.ac.uk\\student\\homeodd\\725181\\github\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -18,12 +30,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20260121141706_InitialCreate.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\Data\\Migrations\\20260121141706_InitialCreate.cs",
+              "RelativeDocumentMoniker": "crispy-happiness1\\Data\\Migrations\\20260121141706_InitialCreate.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\Data\\Migrations\\20260121141706_InitialCreate.cs",
+              "RelativeToolTip": "crispy-happiness1\\Data\\Migrations\\20260121141706_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:17:07.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\Program.cs",
+              "RelativeDocumentMoniker": "crispy-happiness1\\Program.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\Program.cs",
+              "RelativeToolTip": "crispy-happiness1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T14:12:01.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\appsettings.json",
+              "RelativeDocumentMoniker": "crispy-happiness1\\appsettings.json",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\appsettings.json",
+              "RelativeToolTip": "crispy-happiness1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T14:05:34.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "crispy-happiness1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "crispy-happiness1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T13:33:19.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "crispy-happiness1\\ScaffoldingReadMe.txt",
               "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\725181\\GitHub\\crispy-happiness\\crispy-happiness1\\crispy-happiness1\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "crispy-happiness1\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-01-14T15:08:11.185Z",
               "EditorCaption": ""
